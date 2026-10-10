@@ -1,6 +1,6 @@
 {
   "name": "arbitrary-precision-decimal",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Performs arbitrary-precision decimal arithmetic on numbers represented as digit arrays for exact financial calculations.",
   "type": "module",
   "main": "src/index.js",
